@@ -2,7 +2,7 @@
 
 ## Tasks
 
-* Building a vanilla Weather App project which includes the following:-
+### Building a vanilla Weather App project which includes the following:-
 
 - The search engine
 - API integration
